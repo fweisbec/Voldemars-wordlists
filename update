@@ -1,0 +1,5 @@
+#!/bin/bash
+
+rm ../wordlist.zip
+zip -r ../wordlist.zip *
+old=$(cat ../wordlist_ver); echo $(($old+1)) > ../wordlist_ver
