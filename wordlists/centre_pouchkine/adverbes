@@ -1,28 +1,28 @@
 
 #Temps
-ad;aujourd'hui;today;*;сегодня
-ad;hier;yesterday;*;вчера
-ad;avant;before;*;раньше
-ad;toujours;always;*;всегда
-ad;souvent;often;*;часто
-ad;parfois;sometimes;*;иногда
-ad;rarement;rarely;*;редко
-ad;jamais;never;*;никогда
-ad;d'abord;firstly;*;сначала
-ad;puis;then;*;потом
+aujourd'hui;сегодня
+hier;вчера
+avant;раньше
+toujours;всегда
+souvent;часто
+parfois;иногда
+rarement;редко
+jamais;никогда
+d'abord;сначала
+puis;потом
 
 
 #Temperature
-ad;froid (adv);coldly;*;холодно
-ad;chaud/tempéré (adv);warm;*;тепло
-ad;chaud/torride (adv);hot;*;жарко
+froid (adv);холодно
+chaud/tempéré (adv);тепло
+chaud/torride (adv);жарко
 
 #divers
-ad;déjà;already;*;уже
-ad;encore;more;*;ещё
-ad;clair (adv);clear;*;ясно
+déjà;уже
+encore;ещё
+clair (adv);ясно
 
 # Lieu
-ad;ici;here;*;здесь
-ad;là;there;*;там
+ici;здесь
+là;там
 

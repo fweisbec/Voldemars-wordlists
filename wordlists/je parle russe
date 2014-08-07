@@ -2,28 +2,28 @@
 # Page 17 adverbes
 
  
-ad;comment (adv);how;*;как
-ad;bien (adv);*;*;хорошо
-ad;mal (adv);*;*;плохо
-ad;vite (adv);*;*;быстро
-ad;lentement (adv);*;*;медленно
-ad;beaucoup (adv);*;*;много
-ad;peu (adv);*;*;мало
-ad;un petit peu (adv);*;*;чуть чуть
-ad;souvent (adv);*;*;часто
-ad;rarement (adv);*;*;редко
-ad;très (adv);*;*;очень
-ad;déjà (adv);*;*;уже
-ad;encore (adv);*;*;ещё
-ad;rien (adv);*;*;ничего
+comment (adv);как
+bien (adv);хорошо
+mal (adv);плохо
+vite (adv);быстро
+lentement (adv);медленно
+beaucoup (adv);много
+peu (adv);мало
+un petit peu (adv);чуть чуть
+souvent (adv);часто
+rarement (adv);редко
+très (adv);очень
+déjà (adv);уже
+encore (adv);ещё
+rien (adv);ничего
 
 
 # Page 44 verbes de location
 
-v;être assis;*;*;сидеть
-v;être couché;*;*;лежать
-v;être debout;*;*;стоять
+être assis;сидеть
+être couché;лежать
+être debout;стоять
 
 # Page 46 habiter
 
-v;habiter;live in;*;жить
+habiter;жить

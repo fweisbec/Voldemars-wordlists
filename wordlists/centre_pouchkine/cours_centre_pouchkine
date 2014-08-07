@@ -2,36 +2,36 @@
 
 # урок 3
 
-n;enfer;hell;*;ад
-n;pont;bridge;*;мост
-n;année;year;*;год
-n;jardin;garden;*;сад
-n;ouest;west;*;запад
-n;pain;bread;*;хлеб
-n;chêne;oak;*;дуб
-n;ordre;order;*;приказ
-n;récit;*;*;рассказ
-n;ville;city;*;город
-n;héros;heroe;*;герой
-n;ami;friend;*;друг
-n;esprit;spirit;*;дух
-r;près de;beside;*;рядом
-n;poisson;fish;*;рыба
-n;rivière;river;*;река
+enfer;ад
+pont;мост
+année;год
+jardin;сад
+ouest;запад
+pain;хлеб
+chêne;дуб
+ordre;приказ
+récit;рассказ
+ville;город
+héros;герой
+ami;друг
+esprit;дух
+près de;рядом
+poisson;рыба
+rivière;река
 
-n;voisin;neighbour;*;сосед
-n;diable;devil;*;чёрт
+voisin;сосед
+diable;чёрт
 
-n;forêt;forest;*;лес
-n;arbre;tree;*;дерево
-n;feuille d'arbre;*;*;лист
+forêt;лес
+arbre;дерево
+feuille d'arbre;лист
 
 #
-n;montre;*;*;часы
-n;idée;idea;*;идея
-n;dictionnaire;*;*;словарь
-n;sac;*;*;сумка
-n;clé;key;*;ключ
+montre;часы
+idée;идея
+dictionnaire;словарь
+sac;сумка
+clé;ключ
 
-n;langue;language;*;язык
-n;soleil;sun;*;солнце
+langue;язык
+soleil;солнце

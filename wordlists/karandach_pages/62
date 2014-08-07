@@ -1,11 +1,11 @@
 # Karandach (Annie Tchernychev) page 62
 
-n;timbre;*;*;марка
-n;itinéraire;*;*;маршрут
-n;masque;*;*;маска
-n;beurre/huile;*;*;масло
-n;mathématiques;*;*;математика
-n;mère;*;*;мать
-n;voiture;*;*;машина
-n;miel;*;*;мёд
+timbre;марка
+itinéraire;маршрут
+masque;маска
+beurre/huile;масло
+mathématiques;математика
+mère;мать
+voiture;машина
+miel;мёд
 
